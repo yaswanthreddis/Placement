@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'URW DIN';
+    src: local('URW DIN Black'), local('URW-DIN-Black'),
+        url('URWDIN-Black.woff2') format('woff2'),
+        url('URWDIN-Black.woff') format('woff'),
+        url('URWDIN-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
